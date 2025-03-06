@@ -1,7 +1,6 @@
 /*
-CSE 310 Hash Function DIY Contest
-Instructor: Yiran "Lawrence" Luo
-Your name(s): Adam Cabezas
+Hash Function
+Name: Adam Cabezas
 Your team alias: NotSoHashable
 */
 
